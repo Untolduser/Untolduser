@@ -16,7 +16,7 @@ Aspiring Cybersecurity Analyst aiming to work in a Security Operations Center (S
 
 | Skill                                         | Associated Project |
 |----------------------------------------------|------------------|
-| SIEM Implementation & Log Analysis           | <a href="#">SOC Lab (Splunk + Sysmon)</a> |
+| SIEM Implementation & Log Analysis           | <a href="https://github.com/Untolduser/SOC-Home-Lab-Attack-Detection">SOC Lab (Splunk + Sysmon + Attack-Detection)</a> |
 | Network Traffic Monitoring                   | <a href="#">SOC Lab</a> |
 | Threat Detection & Alert Analysis            | <a href="#">SOC Lab</a> |
 | Incident Response Basics                     | <a href="#">SOC Project</a> |
